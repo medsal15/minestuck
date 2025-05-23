@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+
+- Fixed weapons having the wrong durability
+
+### Contributors for this release
+
+- medsal15
+
 ## [1.20.1-1.12.1.1] - 2025-04-18
 
 ### Fixed
@@ -15,11 +23,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Cruxite button now uses raw cruxite instead of cruxite block, which resolves a conflict with storage block breakdown
 - The block model for the holopad with card now renders with cutout
 - Carved totems in alchemiter model now have correct uv mapping
-- Fixed weapons having the wrong durability
 
 ### Contributors for this release
 
-- kirderf1, blankMushroom, medsal15
+- kirderf1, blankMushroom
 
 ## [1.21.1-1.13.0.1] - 2025-04-14
 
